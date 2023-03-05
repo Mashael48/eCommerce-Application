@@ -7,6 +7,6 @@ public interface Constants {
 
 	// ** Status ** //
 	final String SUCCESS = "SUCCESS";
-	final String FAIL = "SUCCESS";
+	final String FAIL = "FAIL";
 
 }

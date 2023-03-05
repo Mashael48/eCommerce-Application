@@ -10,4 +10,10 @@ public class CreateUserRequest {
 	@JsonProperty
 	private String username;
 
+	@JsonProperty
+	private String password;
+
+	@JsonProperty
+	private String confirmPassword;
+
 }
